@@ -1,2 +1,2 @@
 # loan-manage
-manage the loan as simply as you can
+manage the loan as simply as you can.
